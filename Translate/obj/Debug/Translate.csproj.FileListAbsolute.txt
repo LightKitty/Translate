@@ -1,0 +1,9 @@
+E:\project\Translate\Translate\bin\Debug\Translate.exe.config
+E:\project\Translate\Translate\bin\Debug\Translate.exe
+E:\project\Translate\Translate\bin\Debug\Translate.pdb
+E:\project\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+E:\project\Translate\Translate\obj\Debug\Translate.Form1.resources
+E:\project\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+E:\project\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
+E:\project\Translate\Translate\obj\Debug\Translate.exe
+E:\project\Translate\Translate\obj\Debug\Translate.pdb
